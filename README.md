@@ -274,7 +274,7 @@ public class Main {
 }
 ```
 
-<p align="justify">Sebagai titik jalannya program dan menangani antarmuka pengguna. Bagian-bagian penting lainnya:</p>
+Sebagai titik jalannya program dan menangani antarmuka pengguna. Bagian-bagian penting lainnya:
 
 - Method main(): Menampilkan menu utama dan mengarahkan ke fungsi yang sesuai berdasarkan pilihan user
 - Method tambahPet(): Menangani proses penambahan data pet dengan validasi input
@@ -318,7 +318,7 @@ public class Pet {
 }
 ```
 
-<p align="justify">Sebagai model data untuk representasi objek pet. Bagian penting lainnya mencakup: </p>
+Sebagai model data untuk representasi objek pet. Bagian penting lainnya mencakup:
 
 - Atribut: id, nama, jenis, umur, pemilik (semua private)
 - Constructor: Untuk inisialisasi objek Pet dengan semua atributnya
@@ -382,7 +382,7 @@ public class PetService {
 }
 ```
 
-<p align="justify">Menangani logika bisnis dan operasi CRUD. Bagian terpentingnya yaitu:</p>
+Menangani logika bisnis dan operasi CRUD. Bagian terpentingnya yaitu:
 
 - ArrayList<Pet> pets: Menyimpan koleksi data pets
 - Method tambahPet(): Menambahkan pet baru dengan ID otomatis
@@ -413,14 +413,14 @@ public class ValidasiUtil {
 }
 ```
 
-<p align="justify">Menyediakan fungsi untuk validasi input. Bagian pentingnya ialah sebagai berikut:</p>
+Menyediakan fungsi untuk validasi input. Bagian pentingnya ialah sebagai berikut:
 
 - Method hanyaHurufDanSpasi(): Memvalidasi input hanya mengandung huruf dan spasi
 - Method hanyaAngka(): Memvalidasi input hanya mengandung angka
 
   **5. Kesimpulan**
   
-<p align="justify">Program ini menerapkan konsep MVC dengan jelas dimana:</p>
+Program ini menerapkan konsep MVC dengan jelas dimana:
 
 - Model (Pet) mengatur struktur data
 - View (Main) menangani tampilan dan interaksi user
