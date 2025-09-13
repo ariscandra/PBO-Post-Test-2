@@ -1,6 +1,6 @@
 <a name="top"></a>
     
-# PBO | Post-Test 1 | Manajemen Pets Daycare Breakdown
+# PBO | Post-Test 2 | Manajemen Pets Daycare Breakdown
 
 ## 📚 Daftar Isi
 - [👥 Deskripsi Program](#-deskripsi-program)
@@ -65,7 +65,7 @@ Program ini memberikan solusi terstruktur untuk mengelola data penitipan hewan h
 
 <details>
   <summary><h3>Penjelasan Kode Versi Post-Test 1</h3></summary>
-  <a href="https://github.com/ariscandra/PBO-Post-Test-1">Lihat disini</a>
+  <a href="https://github.com/ariscandra/PBO-Post-Test-1?tab=readme-ov-file#-penjelasan-kode">Lihat disini</a>
 </details>
 
 <details>
